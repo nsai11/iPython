@@ -1,5 +1,5 @@
 # iPython
-iPython, short for Indian Python is an attempt to run python in Indian and devanagiri languages.
+iPython, short for Indian Python is an attempt to run python in Indian/Devanagiri languages.
 
 # Inspiration
 http://www.chinesepython.org/home.html
