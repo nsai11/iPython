@@ -1,19 +1,19 @@
 # iPython
 iPython, short for Indian Python is an attempt to run python in Indian and devanagiri languages.
 
-#Inspiration
+# Inspiration
 http://www.chinesepython.org/home.html
 
-#Usecase
+# Usecase
 This project aims to help children and people with less exposure to English, transition better to CPython, the official Python.
 
-#Path 1 (current track)
+# Path 1 (current track)
 1. Need to create a mapping script that maps Hindi keywords to their english counterpart
 2. Write a script that includes this mapping to parse a given program
 3. The above script needs to parse the program, tokenize hindi words and build an english program.
 4. The english program would run and deliver the output back to the hindi program
 
-#Path 2(Suitable track)
+# Path 2(Suitable track)
 1. Modify grammar.c 
 2. Modify pythonrun.c to enable hindi version of 'from xx import xx'
 3. traverse Objects/ to make builtin types/objects more friendly
